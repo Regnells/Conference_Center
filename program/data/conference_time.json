@@ -1,0 +1,75 @@
+{
+    "bookings": [
+        {
+            "unit": "Ankh-Morpork",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Dune",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+
+        },
+        {
+            "unit": "Roshar",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Scadrial",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Rassan",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Murderbot",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Leyndel",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Logen",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Glokta",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        },
+        {
+            "unit": "Dalinar",
+            "January": "Available",
+            "Febuary": "Available",
+            "March": "Available",
+            "April": "Available"
+        }
+    ]
+}

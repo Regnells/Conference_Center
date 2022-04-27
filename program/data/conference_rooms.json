@@ -1,0 +1,86 @@
+{
+    "rooms": [
+        {
+            "unit": "Ankh-Morpork",
+            "projector": "no",
+            "cameras": "yes",
+            "available_months": 4,
+            "price": "50000",
+            "contact_person": "Svenne.Dahlberg@fake.com"
+
+        },
+        {
+            "unit": "Dune",
+            "projector": "yes",
+            "cameras": "no",
+            "available_timeslots": 4,
+            "price": "45000",
+            "contact_person": "Anna.Svedin@fake.com"
+
+        },
+        {
+            "unit": "Roshar",
+            "projector": "no",
+            "cameras": "no",
+            "available_timeslots": 4,
+            "price": "40000",
+            "contact_person": "Anna.Svedin@fake.com"
+        },
+        {
+            "unit": "Scadrial",
+            "projector": "yes",
+            "cameras": "yes",
+            "available_timeslots": 4,
+            "price": "70000",
+            "contact_person": "Svenne.Dahlberg@fake.com"
+        },
+        {
+            "unit": "Rassan",
+            "projector": "no",
+            "cameras": "no",
+            "available_timeslots": 4,
+            "price": "40000",
+            "contact_person": "Anna.Svedin@fake.com"
+        },
+        {
+            "unit": "Murderbot",
+            "projector": "no",
+            "cameras": "yes",
+            "available_timeslots": 4,
+            "price": "50000",
+            "contact_person": "Svenne.Dahlberg@fake.com"
+        },
+        {
+            "unit": "Leyndel",
+            "projector": "yes",
+            "cameras": "yes",
+            "available_timeslots": 4,
+            "price": "70000",
+            "contact_person": "Svenne.Dahlberg@fake.com"
+        },
+        {
+            "unit": "Logen",
+            "projector": "no",
+            "cameras": "no",
+            "available_timeslots": 4,
+            "price": "40000",
+            "contact_person": "Anna.Svedin@fake.com"
+        },
+        {
+            "unit": "Glokta",
+            "projector": "yes",
+            "cameras": "no",
+            "available_timeslots": 4,
+            "price": "45000",
+            "contact_person": "Anna.Svedin@fake.com"
+        },
+        {
+            "unit": "Dalinar",
+            "projector": "no",
+            "cameras": "no",
+            "available_timeslots": 4,
+            "price": "40000",
+            "contact_person": "Anna.Svedin@fake.com"
+        }
+    ]
+}
